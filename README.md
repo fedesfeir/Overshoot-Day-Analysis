@@ -27,4 +27,4 @@ The goal of this analysis is to understand how development and consumption patte
 ---
 
 ## 📑 Dataset
-The dataset used in this analysis is included in the repository under:  
+The dataset used in this analysis is included in the repository under: 
